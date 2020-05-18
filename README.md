@@ -10,6 +10,6 @@ Dans ce travail, on va utiliser quelques concepts vu sur les Chaînes de Markov,
 - Estimer la moyenne et la variance
 - Loi stationnaire
 
-*Collaborateurs:*
-Luis González
-Estia Maliqari
+**Collaborateurs:**
+- Luis González
+- Estia Maliqari
