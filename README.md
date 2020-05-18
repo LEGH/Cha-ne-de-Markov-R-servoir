@@ -17,9 +17,9 @@ Dans ce repository, vous pouvez trouver deux fichiers:
 
 En complément à l’énoncé, on travaille sur la loi suivant pour l’aliméntation du réservoir :
 
-p(0)=0.1
-p(1)=0.6
-p(2)=0.1
+p(0)=0.1 |
+p(1)=0.6 |
+p(2)=0.1 |
 p(i)=0.05,  i=3,4,5,6.
 
 **Collaborateurs:**
