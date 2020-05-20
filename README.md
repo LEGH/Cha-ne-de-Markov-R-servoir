@@ -14,7 +14,7 @@ Dans ce repository, vous pouvez trouver deux fichiers:
 
 - Ennonce_Réservoir (pdf fichier): Le problème à résoudre
 - Réservoir.Rmd (Markdown fichier): Il s'agit d'un notebook où se trouve implementé notre solution aux questions du énoncé. Tout le code se trouve en langage de programmation R.
-- Chains Markov_Reservoir (pdf fichier): Rapport du projet final inspiré sur le fichier Markdown
+- Markov chain_Reservoir (pdf fichier): Rapport du projet final inspiré sur le fichier Markdown
 
 En complément à l’énoncé, on travaille sur la loi suivant pour l’aliméntation du réservoir :
 
